@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiPot", "HiPot\HiPot.csproj", "{2A56C164-18AD-4A74-9AA2-AF6FF4A35450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A56C164-18AD-4A74-9AA2-AF6FF4A35450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A56C164-18AD-4A74-9AA2-AF6FF4A35450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A56C164-18AD-4A74-9AA2-AF6FF4A35450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A56C164-18AD-4A74-9AA2-AF6FF4A35450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BF4AE8-85FA-487D-9FF4-40B7AE265175}
+	EndGlobalSection
+EndGlobal
